@@ -10,3 +10,4 @@ Giving specific permissions.
 Using a point of reference instead of binary
 Giving perimissons to execture even within directories
 Creating a directory and setting permissions.
+Changing group ownership.
