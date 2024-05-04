@@ -4,3 +4,4 @@ What groups is the current user a part of?
 Changing the owner of a file.
 Creating an empty file in a script.
 Giving user execute rights.
+Giving permissions to multiple people.
