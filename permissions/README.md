@@ -8,3 +8,4 @@ Giving permissions to multiple people.
 Everyone but me and the gorup can do anything.
 Giving specific permissions.
 Using a point of reference instead of binary
+Giving perimissons to execture even within directories
