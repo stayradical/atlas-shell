@@ -1,0 +1,2 @@
+#!/bin/baah
+chown -h betty:vincent _hello
