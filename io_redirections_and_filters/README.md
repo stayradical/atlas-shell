@@ -5,3 +5,4 @@ Displaying the contents of two files.
 What are the last 10 lines of this file?
 First 10 lines of this file.
 Using two commands within the same line.
+Saving the results into a new file.
