@@ -8,3 +8,4 @@ Using two commands within the same line.
 Saving the results into a new file.
 Duplicating the last line onto the same file.
 Deleting all javascript files.
+Display the newest 10 files.
