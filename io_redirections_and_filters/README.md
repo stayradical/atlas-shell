@@ -9,3 +9,4 @@ Saving the results into a new file.
 Duplicating the last line onto the same file.
 Deleting all javascript files.
 Display the newest 10 files.
+Sort the files, and show unique ones.
