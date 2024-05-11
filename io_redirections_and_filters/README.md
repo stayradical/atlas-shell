@@ -14,3 +14,4 @@ Using grep for the first time!
 [main 0bb6463] Using grep for the first time!
  2 files changed, 3 insertions(+)
  create mode 100755 io_redirections_and_filters/14-findthatword
+Counting how often a pattern occurs.
