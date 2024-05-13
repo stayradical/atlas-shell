@@ -21,3 +21,4 @@ Display all lines starting with a letter.
 Using a new command to replace characters!
 Removing c and C from input using tr.
 Using a new command to reverse input!
+Display absoultely everything!
