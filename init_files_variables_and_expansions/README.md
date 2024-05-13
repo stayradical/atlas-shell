@@ -5,3 +5,4 @@ Counting the number of directories.
 Counting the directories.
 All the variables.
 List all local variables.
+Local variables.
