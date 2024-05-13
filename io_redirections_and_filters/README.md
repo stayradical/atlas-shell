@@ -16,3 +16,4 @@ Using grep for the first time!
  create mode 100755 io_redirections_and_filters/14-findthatword
 Counting how often a pattern occurs.
 Using a pattern, and wanting 3 lines after
+Display only lines that dont match pattern.
