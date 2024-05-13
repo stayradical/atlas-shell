@@ -19,3 +19,4 @@ Using a pattern, and wanting 3 lines after
 Display only lines that dont match pattern.
 Display all lines starting with a letter.
 Using a new command to replace characters!
+Removing c and C from input using tr.
