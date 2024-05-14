@@ -6,3 +6,4 @@ Counting the directories.
 All the variables.
 List all local variables.
 Local variables.
+Creating a global variable
