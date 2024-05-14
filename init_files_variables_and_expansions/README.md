@@ -11,3 +11,4 @@ Setting a variable with 128.
 Power divided by divide.
 Love exponent breath.
 Binary to decimal.
+Script with everything in it.
