@@ -8,3 +8,4 @@ List all local variables.
 Local variables.
 Creating a global variable
 Setting a variable with 128.
+Power divided by divide.
